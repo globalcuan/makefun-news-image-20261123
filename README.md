@@ -4,6 +4,6 @@
 
 # The Daily World — Monday, 23 November 2026
 
-A [make.fun news-image-20261123](https://make.fun/bounty/news-image-20261123) entry: one image that sums up the world's news of Monday 23 November 2026 — Ukraine's drone campaign against Russia's fleet from the Baltic to Benghazi, the strikes over Kyiv, the Delta outage that snarled Thanksgiving travel, the end of the penny, and the rest of the day, drawn as a broadsheet front page.
+This newspaper front page turns the headlines of 23 November 2026 into one image: Ukraine’s drone campaign against Russia’s fleet, the strikes near Kyiv, a Delta systems outage disrupting Thanksgiving travel, and the end of the penny.
 
-Run: `python3 main.py` — copies `entry.png` to the output directory (`/output` or `$MAKEFUN_OUTPUT_DIR`). `compose.py` is the Pillow program that drew `entry.png`.
+`main.py` copies `entry.png` to the output directory; `compose.py` is the Pillow program that drew the page.

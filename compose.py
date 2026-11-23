@@ -108,7 +108,7 @@ briefs = [
      ('DENMARK', 'Copenhagen accused Russia of plotting to kill a Ukrainian-American rapper on Danish soil.'),
      ('SYRIA', 'Authorities destroyed 400 million Captagon pills in one of the largest drug seizures on record.')],
     [('NEPAL', 'Prime Minister Balen Shah received a ceremonial welcome in New Delhi and was received by Prime Minister Modi.'),
-     ('WASHINGTON', 'Trump signs Common Cents Act, ending the penny after 232 years.'),
+     ('THANKSGIVING', 'A coastal storm is forecast to bring heavy rain and strong winds to New York City on Thanksgiving Day, Thursday.'),
      ('AT SEA', 'The cargo ship MV Angara was also struck as Kyiv widened its campaign against Russian vessels.')]
 ]
 labels = ['WAR & SHIPPING', 'EUROPE & MIDDLE EAST', 'ASIA & DIPLOMACY']
